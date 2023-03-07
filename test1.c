@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main() {
-<<<<<<< HEAD
-    puts("HiHi");
+    puts("Hi");
    return 0;
 }
 
