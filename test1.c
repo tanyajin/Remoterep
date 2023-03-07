@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-    puts("你好");
+    puts("你好好");
    return 0;
 }
 
